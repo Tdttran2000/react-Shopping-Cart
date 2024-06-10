@@ -11,6 +11,7 @@ Users are able to select certain items they wish to purchase, as well as the qua
 * React
 * React Bootstrap
 * React Router Dom
+* Vite
 * JavaScript
 * HTML5
 * CSS3
